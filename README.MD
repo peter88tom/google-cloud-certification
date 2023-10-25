@@ -14,7 +14,7 @@ Each MD represents notes for that particular certificate.
 
 	
  3. **Professional**
-	- This certifications is about specific advanced role. There will go deeper than the associate certificates. It validates key technical job functions and advanced skills in design,implementation and management of GCP. There are multiple roles on this certifications incluing:
+	- This certifications is about specific advanced role. It goes deeper than the associate certificate. It validates key technical job functions and advanced skills in design,implementation and management of GCP. There are multiple roles on this certifications including:
 		1. Cloud Architect
 		2. Cloud Data Engineer
 		3. Cloud Developer 
@@ -26,3 +26,5 @@ Each MD represents notes for that particular certificate.
 
 
 > Most of the certification does test you stuffs that are not related to google, so you will have to have a general knowledge of the industry and best practices.
+>
+> I believe each of the certifacates have only 3 years of life, after that you will have to renew before it expire.
